@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Olivia Kirlin",
+    "phone": "1-851-507-2706 x147",
+    "email": "Sally88@gmail.com",
+    "job": "National Accounts Assistant"
+  },
+  {
+    "name": "Johnathan Feest",
+    "phone": "380-269-7817 x860",
+    "email": "Christ_Kohler@gmail.com",
+    "job": "Legacy Infrastructure Designer"
+  },
+  {
+    "name": "Lynette O'Reilly",
+    "phone": "(960) 773-3280 x2383",
+    "email": "Lucius.Steuber-OKon81@gmail.com",
+    "job": "Product Functionality Technician"
+  },
+  {
+    "name": "Clark Labadie",
+    "phone": "437.294.8831 x757",
+    "email": "Trenton.Ernser@gmail.com",
+    "job": "National Accountability Assistant"
+  },
+  {
+    "name": "Sam Crooks",
+    "phone": "1-302-775-5448",
+    "email": "Collin.Leffler23@gmail.com",
+    "job": "Forward Quality Engineer"
+  }
+]
